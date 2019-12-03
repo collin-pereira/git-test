@@ -10,4 +10,4 @@
         -made .gitignore file
         Branching
             -git branch newBranch
-            
+            -git checkout newBranch
