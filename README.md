@@ -11,3 +11,4 @@
         Branching
             -git branch newBranch
             -git checkout newBranch
+            -git merge newBranch -m "new branch added"
