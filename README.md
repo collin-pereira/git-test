@@ -8,3 +8,6 @@
         -git add . // -git add names.txt
         -git commit -m "chnaged names.txt"
         -made .gitignore file
+        Branching
+            -git branch newBranch
+            
