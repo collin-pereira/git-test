@@ -1,4 +1,4 @@
-#Git basics
+# Git basics
     
     commands
         -git init
@@ -27,4 +27,3 @@
         getting branches from repo to local
             - git branch addition-branch origin/addition_branch
         collaboration on github
-        
